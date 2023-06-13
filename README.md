@@ -1,5 +1,5 @@
 
-# ARCE
+# Parse JSON data from ARCE
 
 Download and extract open data from goverment purchases.
 
